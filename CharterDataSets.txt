@@ -1,0 +1,50 @@
+[
+  {
+    "customerId": 201,
+    "customerName": "Ravi Kumar",
+    "amount": 120.0,
+    "transactionDate": "2025-03-10T15:00:00"
+  },
+  {
+    "customerId": 201,
+    "customerName": "Ravi Kumar",
+    "amount": 75.0,
+    "transactionDate": "2025-03-15T11:00:00"
+  },
+  {
+    "customerId": 202,
+    "customerName": "Sneha Patil",
+    "amount": 200.0,
+    "transactionDate": "2025-04-01T09:30:00"
+  },
+  {
+    "customerId": 202,
+    "customerName": "Sneha Patil",
+    "amount": 45.0,
+    "transactionDate": "2025-04-20T16:10:00"
+  },
+  {
+    "customerId": 203,
+    "customerName": "Ajay Mehta",
+    "amount": 130.0,
+    "transactionDate": "2025-05-05T14:00:00"
+  },
+  {
+    "customerId": 203,
+    "customerName": "Ajay Mehta",
+    "amount": 95.0,
+    "transactionDate": "2025-05-15T13:00:00"
+  },
+  {
+    "customerId": 204,
+    "customerName": "Nikita Sharma",
+    "amount": 300.0,
+    "transactionDate": "2025-03-22T10:00:00"
+  },
+  {
+    "customerId": 205,
+    "customerName": "Prakash Yadav",
+    "amount": 50.0,
+    "transactionDate": "2025-03-23T10:00:00"
+  }
+]
